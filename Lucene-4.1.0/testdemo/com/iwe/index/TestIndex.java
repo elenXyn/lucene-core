@@ -45,7 +45,7 @@ public class TestIndex {
 		TestIndex t = new TestIndex();
 		long start = System.currentTimeMillis();
 		//test1
-		
+		//test2
 		try{
 			
 			Directory dir = FSDirectory.open(new File(indexPath));
